@@ -11,7 +11,7 @@ Every day, before start working in a project with my team, i have to actualize t
 git fetch
 ```
 
-### what if two or more persons are working in the same **branch**?
+## what if two or more persons are working in the same **branch**?
 Remenber always to pull all the work that is currently in the remote branch!
 
 **First check that you are in the branch you want to work!**
@@ -29,7 +29,7 @@ One you're in the desired branch to work, (or if you already were) just pull!
 git pull <link-repo> <branch-name>
 ```
 
-### You want to clone the work of a **branch** to a **new branch**?
+## You want to clone the work of a **branch** to a **new branch**?
 Remenber always to pull all the work that is currently in the remote branch!
 
 **Always check first that you are in the branch you want to work!**
